@@ -1,0 +1,153 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7878
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\ProBuilderCore-Unity5.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\ProBuilderCore-Unity5.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\ProBuilderMeshOps-Unity5.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\ProBuilderMeshOps-Unity5.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\KDTree.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\KDTree.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\pb_Stl.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\pb_Stl.dll into Unity Child Domain
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Triangle.dll (this message is harmless)
+Loading F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\Triangle.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\System.dll (this message is harmless)
+Platform assembly: F:\Projekte\Unity\Mirrors\Build\Prototyp1\Mirrors_Data\Managed\UnityScript.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.848734 ms
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Door Room1') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably MarkDoorHinge?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+The referenced script on this Behaviour (Game Object 'Door Room2') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably MarkDoorHinge?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+The referenced script on this Behaviour (Game Object 'Door (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably MarkDoorHinge?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+(30.0, 1.0, -19.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(5.0, 1.0, -14.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2438 -> priority: 1 
+  Thread -> id: 2c98 -> priority: 1 
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'RightDoor') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably MarkDoorHinge?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+The referenced script on this Behaviour (Game Object 'LeftDoor') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably MarkDoorHinge?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+The referenced script on this Behaviour (Game Object 'Door') is missing!
+ 
+(Filename:  Line: 1754)
+
+A script behaviour (probably MarkDoorHinge?) has a different serialization layout when loading. (Read 32 bytes but expected 56 bytes)
+Did you #ifdef UNITY_EDITOR a section of your serialized properties in any of your scripts?
+ 
+(Filename:  Line: 1808)
+
+(17.0, 1.0, -49.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(42.0, 1.0, -40.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+(42.0, 1.0, -38.0)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LaserCatcher.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at LaserCatcher.Start () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
